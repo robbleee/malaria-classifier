@@ -1,0 +1,23 @@
+# Streamlit secrets (IMPORTANT: Keep API keys secure)
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+.env
+
+# MacOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log 
